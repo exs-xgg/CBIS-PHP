@@ -17,7 +17,7 @@
 
   <div class="wrap">
 		<div class="avatar">
-      <img src="http://cdn.ialireza.me/avatar.png">
+      <img src="img/colored.png">
 		</div>
 		<input type="text" placeholder="username" required>
 		<div class="bar">
