@@ -17,7 +17,7 @@
 
   <div class="wrap">
 		<div class="avatar">
-      <img src="http://cdn.ialireza.me/avatar.png">
+      <img src="img/colored.png">
 		</div>
 		<form action="functions/login.php" method="POST">
 			<input type="text" placeholder="username" name="username" required>
