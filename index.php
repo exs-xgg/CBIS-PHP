@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-<<<<<<< HEAD
 
 <head>
 
@@ -29,16 +28,8 @@
 		<button>Sign in</button>
 	</div>
 
-  <script src="js/index.js"></script>
+	  <script src="js/index.js"></script>
 
 </body>
 
-=======
-<head>
-	<title></title>
-</head>
-<body>
-Hello
-</body>
->>>>>>> origin/master
 </html>
