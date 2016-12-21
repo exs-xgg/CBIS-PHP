@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+<<<<<<< HEAD
 
 <head>
 
@@ -32,4 +33,12 @@
 
 </body>
 
+=======
+<head>
+	<title></title>
+</head>
+<body>
+Hello
+</body>
+>>>>>>> origin/master
 </html>
