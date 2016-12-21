@@ -8,8 +8,8 @@
   <title>CBIS - Tarlac Hospital </title>
 
   <link rel="stylesheet" href="css/reset.css">
-
-    <link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
+  
+	<link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
 
 </head>
 
@@ -19,13 +19,15 @@
 		<div class="avatar">
       <img src="img/colored.png">
 		</div>
-		<input type="text" placeholder="username" required>
-		<div class="bar">
-			<i></i>
-		</div>
-		<input type="password" placeholder="password" required>
-		<a href="" class="forgot_link">forgot?</a>
-		<button>Sign in</button>
+		<form action="functions/login.php" method="POST">
+			<input type="text" placeholder="username" name="username" required>
+			<div class="bar">
+				<i></i>
+			</div>
+			<input type="password" placeholder="password" name="pass" required>
+			<a href="" class="forgot_link">forgot?</a>
+			<button type="submit" name="login">Sign in</button>
+		</form>
 	</div>
 
 	  <script src="js/index.js"></script>
