@@ -6,10 +6,10 @@
   <meta charset="UTF-8">
 
   <title>CBIS - Tarlac Hospital </title>
-
-  <link rel="stylesheet" href="css/reset.css">
   
-	<link rel="stylesheet" href="css/style.css" media="screen" type="text/css" />
+	<link rel="stylesheet" href="css/design.css" media="screen" type="text/css" />
+
+	<link rel="shortcut icon" href="img/colored.png" type="image/x-icon" />
 
 </head>
 
@@ -17,7 +17,7 @@
 
   <div class="wrap">
 		<div class="avatar">
-      <img src="http://cdn.ialireza.me/avatar.png">
+      <img src="img/white.png">
 		</div>
 		<form action="functions/login.php" method="POST">
 			<input type="text" placeholder="username" name="username" required>

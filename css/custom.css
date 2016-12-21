@@ -1,0 +1,3 @@
+.panel, .panel-heading, .panel-footer, .alert, .dropdown-menu, .modal-content, .btn {
+	border-radius: 0;
+}
